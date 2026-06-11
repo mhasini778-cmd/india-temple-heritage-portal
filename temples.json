@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Tirupati Balaji Temple",
+    "state": "Andhra Pradesh",
+    "city": "Tirupati",
+    "deity": "Lord Venkateswara",
+    "image": "tirupati.jpg",
+    "timings": "3:00 AM - 11:00 PM"
+  },
+  {
+    "id": 2,
+    "name": "Meenakshi Temple",
+    "state": "Tamil Nadu",
+    "city": "Madurai",
+    "deity": "Goddess Meenakshi",
+    "image": "meenakshi.jpg",
+    "timings": "5:00 AM - 10:00 PM"
+  },
+  {
+    "id": 3,
+    "name": "Kedarnath Temple",
+    "state": "Uttarakhand",
+    "city": "Kedarnath",
+    "deity": "Lord Shiva",
+    "image": "kedarnath.jpg",
+    "timings": "4:00 AM - 9:00 PM"
+  },
+  {
+    "id": 4,
+    "name": "Jagannath Temple",
+    "state": "Odisha",
+    "city": "Puri",
+    "deity": "Lord Jagannath",
+    "image": "jagannath.jpg",
+    "timings": "5:00 AM - 11:00 PM"
+  },
+  {
+    "id": 5,
+    "name": "Konark Sun Temple",
+    "state": "Odisha",
+    "city": "Konark",
+    "deity": "Sun God",
+    "image": "konark.jpg",
+    "timings": "6:00 AM - 8:00 PM"
+  },
+  {
+    "id": 6,
+    "name": "Ramanathaswamy Temple",
+    "state": "Tamil Nadu",
+    "city": "Rameswaram",
+    "deity": "Lord Shiva",
+    "image": "ramanathaswamy.jpg",
+    "timings": "5:00 AM - 9:00 PM"
+  },
+  {
+    "id": 7,
+    "name": "Somnath Temple",
+    "state": "Gujarat",
+    "city": "Somnath",
+    "deity": "Lord Shiva",
+    "image": "somnath.jpg",
+    "timings": "6:00 AM - 9:30 PM"
+  },
+  {
+    "id": 8,
+    "name": "Srisailam Temple",
+    "state": "Andhra Pradesh",
+    "city": "Srisailam",
+    "deity": "Mallikarjuna Swamy",
+    "image": "srisailam.jpg",
+    "timings": "4:30 AM - 10:00 PM"
+  },
+  {
+    "id": 9,
+    "name": "Vaishno Devi Temple",
+    "state": "Jammu & Kashmir",
+    "city": "Katra",
+    "deity": "Mata Vaishno Devi",
+    "image": "vaishnodevi.jpg",
+    "timings": "Open 24 Hours"
+  }
+]
